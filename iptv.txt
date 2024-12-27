@@ -2,7 +2,7 @@
 河北少儿,http://ott-iptv.top/gxiptv/gwzb/hebei/hebei.php?id=sekj
 文旅公共,http://ott-iptv.top/gxiptv/gwzb/hebei/hebei.php?id=hbgg
 河北农民,http://ott-iptv.top/gxiptv/gwzb/hebei/hebei.php?id=nmpd
-央视频道,,#genre#:
+央视频道,#genre#:
 CCTV1,https://ott-iptv.top/shouxialiuqing/bestV1/bestty.php?id=cctv1hd
 CCTV2,https://ott-iptv.top/shouxialiuqing/bestV1/bestty.php?id=cctv2hd8m
 CCTV3,https://ott-iptv.top/shouxialiuqing/bestV1/bestty.php?id=cctv3hd
